@@ -5,7 +5,7 @@ Integrantes:
 - Jakelin Daiana Correa Palacio
 - Dayra Gabriela Chamorro Revelo
 - Daniela Guardia Cuervo
-- Fredy ALberto Orozco Loaiza
+- Fredy Alberto Orozco Loaiza
 - Cristian Camilo Henao Rojas
 
 [Video en youtube](https://www.youtube.com/watch?v=FR8vo0Qf51s&feature=youtu.be) 
